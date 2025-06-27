@@ -5,7 +5,7 @@ import { FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import * as brands from '@fortawesome/free-brands-svg-icons'
 //brands -> 별칭 | as -> 별칭으로 선언하겠다.
 import * as arrow from '@fortawesome/free-solid-svg-icons'
-//컴포넌트 호출
+//컴포넌트 호출1
 import Header from './Header';
 import Todo from './Todo';
 import List from './List';
